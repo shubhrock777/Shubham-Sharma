@@ -22,3 +22,7 @@ My Socials are highlighted here
 LinkedIn here https://www.linkedin.com/in/shubham-sharma-616673149 🕴🏼
 
 If you like my work please don't forget to give me a follow!
+
+![Shubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhrock777&show_icons=true&theme=radical)
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=shubhrock777&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
